@@ -1,5 +1,7 @@
 
 # 🌸 FNP Sales Analysis Dashboard (Excel)
+![Screenshot 2025-04-03 132623](https://github.com/user-attachments/assets/7644664d-7bd2-45a9-a0c0-52205798cf1d)
+
 
 ![Dashboard Preview](dashboard/fnp_sales_dashboard.png)
 
